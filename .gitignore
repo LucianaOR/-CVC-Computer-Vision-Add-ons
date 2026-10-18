@@ -6,3 +6,8 @@ hpatches-sequences-release/
 tutorial/graf/
 
 results/
+
+.DS_Store
+
+tutorial/fast_false.png
+tutorial/fast_true.png
