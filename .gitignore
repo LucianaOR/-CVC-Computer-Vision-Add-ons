@@ -1,6 +1,8 @@
-fast_false.png
-fast_true.png
-graf/
-hpatches-sequences-release/
-SuperGluePretrainedNetwork/.cvc/
 .cvc/
+__pycache__/
+*.pyc
+
+hpatches-sequences-release/
+tutorial/graf/
+
+results/
