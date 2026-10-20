@@ -11,3 +11,7 @@ results/
 
 tutorial/fast_false.png
 tutorial/fast_true.png
+# Ficheiros temporários e comprimidos
+.DS_Store
+.colabsync/
+*.zip
