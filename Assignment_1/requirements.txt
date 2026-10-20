@@ -1,0 +1,17 @@
+opencv-contrib-python==4.11.0.86
+
+numpy
+scipy
+pandas
+
+matplotlib
+scikit-image
+
+psutil
+
+torch
+torchvision
+kornia
+
+# LightGlue direto do repositório oficial
+git+https://github.com/cvg/LightGlue.git
